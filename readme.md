@@ -66,7 +66,9 @@ Eclipse/IntelliJ: An IDE to code for the application
 Java: A programming language to develop the prototype
 
 Git: To connect and push files from the local system to GitHub
-GitHub Repo Link: 
+
+GitHub Repo Link: https://github.com/Devamparikh/Locker-Project-1.git
+
 GitHub: To store the application code and track its versions
 
 Scrum: An efficient agile framework to deliver the product incrementally
